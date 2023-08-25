@@ -1,0 +1,117 @@
+.main{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 3%;
+}
+.main1{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 6%;
+}
+.card{
+  display: flex;
+  width: 40%;
+  box-shadow: 4px 3px 3px rgb(87, 82, 82);
+  margin-bottom: 2%;
+  border-radius: 5px;
+  margin-top: 3%;
+   background-color: white;
+   font-size: 20px;
+}
+.textLogo{  
+  width: 70%;
+  margin-left: 2%;
+  
+}
+.imageDiv{
+  width: 30%;
+}
+.cartItem{
+  margin-left: 10px;
+  border: 1px solid black;
+}
+.display{
+  display: flex;
+}
+.imageLogo{
+  width: 4%;
+  height: 2.5vh;
+}
+.imageFood{
+  width: 100%;
+  height: 35vh;
+}
+.textLogo button{
+  color: rgb(206, 193, 12);
+  background-color: white;
+  border: 1px solid  rgb(206, 193, 12);
+  width: 50%;
+  padding: 3%;
+  border-radius: 4px;
+  font-size: 20px;
+}
+#lunch{
+  margin-left: 5%; 
+}
+.foot{
+  display: flex;
+  background-color: rgb(237, 237, 243);
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 22px;
+ 
+}
+.footesec{
+  /* margin-top: 10%; */
+  /* padding-top: 10px; */
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+
+  
+}
+.footesec a{
+  /* padding-top: 8px; */
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+}
+#contibtn{
+  color: white;
+  background-color: red;
+  padding-top: 6px;
+  padding-left: 6px;
+  padding-bottom: 6px;
+  border: 1px solid red;
+  border-radius: 4px;
+
+}
+#topbtn{
+  color:black;
+  font-size: 22px;
+  border: 1px solid red;
+  border-radius: 3px;
+}
+#cartItems{
+  display: none;
+  background-color: rgb(81, 81, 100);
+}
+.thanku{
+  width: 60%;
+  margin: auto;
+  margin-top: 20%;
+}
+.thanku h1{
+ text-align: center;
+ color: rgb(15, 15, 128);
+}
+.dis{
+  padding-top: 5%;
+}

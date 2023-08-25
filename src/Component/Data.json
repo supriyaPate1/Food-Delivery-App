@@ -1,0 +1,15 @@
+[
+        {"id":101,"name":"Plain Dosa","foodType":"Veg","imageFood":"https://cdn3.foodviva.com/static-content/food-images/south-indian-recipes/dosa-recipe/dosa-recipe.jpg","imageLogo":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg","price":30,"totalPrice":0,"quantity":0, "cartVal":0},
+
+        {"id":102,"name":"Poori","foodType":"Veg","imageFood":"https://www.Vegrecipesofindia.com/wp-content/uploads/2020/11/puri.jpg","imageLogo":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg","price":40 ,"totalPrice":0 , "quantity":0,"cartVal":0},
+
+        {"id":103,"name":"Masala Dosa","foodType":"Veg","imageFood":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe.jpg","imageLogo":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg","price":50 ,"totalPrice":0, "quantity":0, "cartVal":0},
+
+        {"id":104,"name":"Manglore Bajji","foodType":"Veg","imageFood":"https://tamil.boldsky.com/img/2014/04/21-21-manglore-bajji.jpg","imageLogo":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg","price":30 ,"totalPrice":0,  "quantity":0,"cartVal":0},
+
+        {"id":105,"name":"Andhra Veg meals","foodType":"Veg","imageFood":"https://images.indulgexpress.com/uploads/user/imagelibrary/2019/6/19/original/The_Andhra_Thali_meal.JPG","imageLogo":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg","price":350 ,"totalPrice":0,  "quantity":0,"cartVal":0},
+
+        {"id":106,"name":"Andhra Non-Veg meals","foodType":"Non-Veg","imageFood":"http://s3-ap-southeast-1.amazonaws.com/asia.urbanpiper.com/media/bizmedia/2022/02/25/Andhra_Chicken_Meals.png","imageLogo":"http://infoseekershub.com/wp-content/uploads/2019/08/non-veg.jpg","price":300 ,"totalPrice":0,  "quantity":0,"cartVal":0},
+
+        {"id":107,"name":"Biryani","foodType":"Non-Veg","imageFood":"https://s3-ap-southeast-1.amazonaws.com/assets.limetray.com/assets/user_images/content_images/original/Chicken-biryani.jpg","imageLogo":"http://infoseekershub.com/wp-content/uploads/2019/08/non-veg.jpg","price":100 ,"totalPrice":0,  "quantity":0,"cartVal":0}
+]

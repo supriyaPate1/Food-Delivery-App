@@ -1,0 +1,25 @@
+.Nav{
+    display: flex;
+    background-color: rgb(237, 237, 243);
+    justify-content: space-evenly;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    top: 0;
+}
+  
+.Nav a{
+    text-decoration: none;
+    color: rgb(150, 142, 142);
+    font-size: 1.3vw;   
+}
+
+.Nav h5:hover{  
+  color: rgb(28, 18, 170);
+}
+ 
+body{
+  background-color: rgb(206, 216, 216); 
+}
+
